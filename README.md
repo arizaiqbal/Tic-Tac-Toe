@@ -26,7 +26,9 @@ This is a simple implementation of the classic **Tic Tac Toe** game using **HTML
 
 4. The game announces the winner or a draw. Refresh to play again.
 
-🔍 Features
+---
+
+## 🔍 Features
 Two-player game (Player X and Player O).
 
 Turn-based system with alternating moves.
@@ -37,7 +39,7 @@ Detects and announces a draw.
 
 Simple and clean UI using CSS.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 HTML5 – For structure
 
 CSS3 – For styling and layout
