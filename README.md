@@ -13,13 +13,13 @@ This is a simple implementation of the classic **Tic Tac Toe** game using **HTML
 
 ---
 
-## 📂 File Structure
+## 📂 File Structure 
 
-tic-tac-toe/
-│
-├── index.html # Game structure and layout
-├── style.css # Basic styling and layout
-└── script.js # Game logic and interactivity
+- tic-tac-toe/
+   │
+   ├── index.html # Game structure and layout
+   ├── style.css # Basic styling and layout
+   └── script.js # Game logic and interactivity
 ---
 
 ## 🚀 How to Play
